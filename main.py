@@ -82,14 +82,16 @@ import pandas as pd
 from itertools import chain, zip_longest
 
 data = pd.read_csv("data.csv")
-data['HTR'] = ['D','W','L','W','W','W','L','W','W','W','W','L','L','D','W']
-data['ATR'] = ['D','L','W','L','L','L','W','L','L','L','L','W','W','D','L']
-X = data[['HS', 'AS']].values
-Y = data[['HTHG', 'FTAG']].values
-ftrH = data['HTR'].to_list()
-ftrA = data['ATR'].to_list()
-ftr = list(chain.from_iterable(zip_longest(ftrH, ftrA)))
-resKolor = ['tab:red' if p=='L' else 'tab:green' if p=='W' else 'tab:blue' for p in ftr]
+data1 = data.drop(data.columns[[0,1]],axis=1)
+data1.to_csv("data1.csv")
+# data['HTR'] = ['D','W','L','W','W','W','L','W','W','W','W','L','L','D','W']
+# data['ATR'] = ['D','L','W','L','L','L','W','L','L','L','L','W','W','D','L']
+# X = data[['HS', 'AS']].values
+# Y = data[['HTHG', 'FTAG']].values
+# ftrH = data['HTR'].to_list()
+# ftrA = data['ATR'].to_list()
+# ftr = list(chain.from_iterable(zip_longest(ftrH, ftrA)))
+# resKolor = ['tab:red' if p=='L' else 'tab:green' if p=='W' else 'tab:blue' for p in ftr]
 # plt.scatter(X, Y, marker='o', facecolors=resKolor)
 # plt.xlabel('Strikes', fontsize=16)
 # plt.ylabel('Gols', fontsize=16)
@@ -97,25 +99,25 @@ resKolor = ['tab:red' if p=='L' else 'tab:green' if p=='W' else 'tab:blue' for p
 
 # Regression
 
-from sklearn.model_selection import train_test_split
-from sklearn.linear_model import LinearRegression
-from sklearn.svm import SVR
-
-X = X.reshape(-1,1)
-Y = Y.reshape(-1,1)
-X_tren, X_test, Y_tren, Y_test = train_test_split(X, Y)
-linreg = LinearRegression().fit(X_tren,Y_tren)
-plt.scatter(X, Y, marker='o', facecolors='white', edgecolors='black', label='pomiary')
-plt.xlabel('Strikes', fontsize=16)
-plt.ylabel('Gols', fontsize=16)
-plt.scatter(X,linreg.predict(X), facecolor='tab:red', label='regresja liniowa')
-svmreg = SVR(gamma='auto').fit(X_tren,Y_tren.ravel())
-plt.scatter(X, svmreg.predict(X), facecolor='tab:green', label='regresja SVR')
-plt.legend()
-plt.show()
-from sklearn.metrics import mean_squared_error
-print('blad sredniokwadratowy na zbiorze treningowym: ', mean_squared_error(Y_tren, svmreg.predict(X_tren)))
-print('blad sredniokwadratowy na zbiorze testujacym: ', mean_squared_error(Y_test, svmreg.predict(X_test)))
+# from sklearn.model_selection import train_test_split
+# from sklearn.linear_model import LinearRegression
+# from sklearn.svm import SVR
+#
+# X = X.reshape(-1,1)
+# Y = Y.reshape(-1,1)
+# X_tren, X_test, Y_tren, Y_test = train_test_split(X, Y)
+# linreg = LinearRegression().fit(X_tren,Y_tren)
+# plt.scatter(X, Y, marker='o', facecolors='white', edgecolors='black', label='pomiary')
+# plt.xlabel('Strikes', fontsize=16)
+# plt.ylabel('Gols', fontsize=16)
+# plt.scatter(X,linreg.predict(X), facecolor='tab:red', label='regresja liniowa')
+# svmreg = SVR(gamma='auto').fit(X_tren,Y_tren.ravel())
+# plt.scatter(X, svmreg.predict(X), facecolor='tab:green', label='regresja SVR')
+# plt.legend()
+# plt.show()
+# from sklearn.metrics import mean_squared_error
+# print('blad sredniokwadratowy na zbiorze treningowym: ', mean_squared_error(Y_tren, svmreg.predict(X_tren)))
+# print('blad sredniokwadratowy na zbiorze testujacym: ', mean_squared_error(Y_test, svmreg.predict(X_test)))
 
 # Klassification
 
