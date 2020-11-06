@@ -4,6 +4,11 @@ import scipy.stats as st
 import matplotlib.pyplot as plt
 import pandas as pd
 
+
+data = pd.read_json('covid19_2020_02_15.json.gz', lines=True)
+data = data.mask(data['location'].eq('None')).dropna()
+data.to_csv('norm_data.csv', index=False)
+print(data.head())
 # # numer1
 # plt.figure(1, figsize=(15, 10))
 # plt.subplot(2, 2, 1).set_title('Chirp')
@@ -81,9 +86,9 @@ import pandas as pd
 # plt.show()
 from itertools import chain, zip_longest
 
-data = pd.read_csv("data.csv")
-data1 = data.drop(data.columns[[0,1]],axis=1)
-data1.to_csv("data1.csv")
+# data = pd.read_csv("data.csv")
+# data1 = data.drop(data.columns[[0,1]],axis=1)
+# data1.to_csv("data1.csv")
 # data['HTR'] = ['D','W','L','W','W','W','L','W','W','W','W','L','L','D','W']
 # data['ATR'] = ['D','L','W','L','L','L','W','L','L','L','L','W','W','D','L']
 # X = data[['HS', 'AS']].values
