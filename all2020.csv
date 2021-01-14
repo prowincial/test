@@ -1,0 +1,660 @@
+,Div,Date,Time,HomeTeam,AwayTeam,FTHG,FTAG,FTR,HS,AS,HST,AST
+0,E0,09/08/2019,20:00,Liverpool,Norwich,4,1,H,15,12,7,5
+1,E0,10/08/2019,12:30,West Ham,Man City,0,5,A,5,14,3,9
+2,E0,10/08/2019,15:00,Bournemouth,Sheffield United,1,1,D,13,8,3,3
+3,E0,10/08/2019,15:00,Burnley,Southampton,3,0,H,10,11,4,3
+4,E0,10/08/2019,15:00,Crystal Palace,Everton,0,0,D,6,10,2,3
+5,E0,10/08/2019,15:00,Watford,Brighton,0,3,A,11,5,3,3
+6,E0,10/08/2019,17:30,Tottenham,Aston Villa,3,1,H,31,7,7,4
+7,E0,11/08/2019,14:00,Leicester,Wolves,0,0,D,15,8,1,2
+8,E0,11/08/2019,14:00,Newcastle,Arsenal,0,1,A,9,8,2,2
+9,E0,11/08/2019,16:30,Man United,Chelsea,4,0,H,11,18,5,7
+10,E0,17/08/2019,12:30,Arsenal,Burnley,2,1,H,16,18,9,5
+11,E0,17/08/2019,15:00,Aston Villa,Bournemouth,1,2,A,22,12,7,4
+12,E0,17/08/2019,15:00,Brighton,West Ham,1,1,D,16,8,4,3
+13,E0,17/08/2019,15:00,Everton,Watford,1,0,H,12,8,2,2
+14,E0,17/08/2019,15:00,Norwich,Newcastle,3,1,H,15,10,8,3
+15,E0,17/08/2019,15:00,Southampton,Liverpool,1,2,A,14,15,3,6
+16,E0,17/08/2019,17:30,Man City,Tottenham,2,2,D,30,3,10,2
+17,E0,18/08/2019,14:00,Sheffield United,Crystal Palace,1,0,H,15,6,3,4
+18,E0,18/08/2019,16:30,Chelsea,Leicester,1,1,D,14,12,5,3
+19,E0,19/08/2019,20:00,Wolves,Man United,1,1,D,6,9,2,2
+20,E0,23/08/2019,20:00,Aston Villa,Everton,2,0,H,7,12,3,1
+21,E0,24/08/2019,12:30,Norwich,Chelsea,2,3,A,6,23,5,8
+22,E0,24/08/2019,15:00,Brighton,Southampton,0,2,A,12,12,3,4
+23,E0,24/08/2019,15:00,Man United,Crystal Palace,1,2,A,22,5,3,3
+24,E0,24/08/2019,15:00,Sheffield United,Leicester,1,2,A,8,10,3,2
+25,E0,24/08/2019,15:00,Watford,West Ham,1,3,A,23,16,3,10
+26,E0,24/08/2019,17:30,Liverpool,Arsenal,3,1,H,25,9,5,3
+27,E0,25/08/2019,14:00,Bournemouth,Man City,1,3,A,10,19,7,5
+28,E0,25/08/2019,16:30,Tottenham,Newcastle,0,1,A,17,8,2,3
+29,E0,25/08/2019,16:30,Wolves,Burnley,1,1,D,17,13,2,4
+30,E0,31/08/2019,12:30,Southampton,Man United,1,1,D,10,21,2,8
+31,E0,31/08/2019,15:00,Chelsea,Sheffield United,2,2,D,13,8,5,2
+32,E0,31/08/2019,15:00,Crystal Palace,Aston Villa,1,0,H,22,10,5,2
+33,E0,31/08/2019,15:00,Leicester,Bournemouth,3,1,H,13,8,5,2
+34,E0,31/08/2019,15:00,Man City,Brighton,4,0,H,15,6,6,2
+35,E0,31/08/2019,15:00,Newcastle,Watford,1,1,D,13,13,5,3
+36,E0,31/08/2019,15:00,West Ham,Norwich,2,0,H,18,8,8,3
+37,E0,31/08/2019,17:30,Burnley,Liverpool,0,3,A,7,15,2,7
+38,E0,01/09/2019,14:00,Everton,Wolves,3,2,H,15,8,6,5
+39,E0,01/09/2019,16:30,Arsenal,Tottenham,2,2,D,26,13,8,9
+40,E0,14/09/2019,12:30,Liverpool,Newcastle,3,1,H,21,8,9,1
+41,E0,14/09/2019,15:00,Brighton,Burnley,1,1,D,14,7,5,1
+42,E0,14/09/2019,15:00,Man United,Leicester,1,0,H,10,9,5,3
+43,E0,14/09/2019,15:00,Sheffield United,Southampton,0,1,A,17,11,4,7
+44,E0,14/09/2019,15:00,Tottenham,Crystal Palace,4,0,H,13,11,5,6
+45,E0,14/09/2019,15:00,Wolves,Chelsea,2,5,A,11,15,4,6
+46,E0,14/09/2019,17:30,Norwich,Man City,3,2,H,7,25,3,8
+47,E0,15/09/2019,14:00,Bournemouth,Everton,3,1,H,13,14,6,5
+48,E0,15/09/2019,16:30,Watford,Arsenal,2,2,D,31,10,7,4
+49,E0,16/09/2019,20:00,Aston Villa,West Ham,0,0,D,10,13,5,1
+50,E0,20/09/2019,20:00,Southampton,Bournemouth,1,3,A,25,6,6,3
+51,E0,21/09/2019,12:30,Leicester,Tottenham,2,1,H,16,11,7,4
+52,E0,21/09/2019,15:00,Burnley,Norwich,2,0,H,13,11,6,2
+53,E0,21/09/2019,15:00,Everton,Sheffield United,0,2,A,16,2,3,1
+54,E0,21/09/2019,15:00,Man City,Watford,8,0,H,28,5,11,4
+55,E0,21/09/2019,17:30,Newcastle,Brighton,0,0,D,11,16,4,3
+56,E0,22/09/2019,14:00,Crystal Palace,Wolves,1,1,D,13,14,4,4
+57,E0,22/09/2019,14:00,West Ham,Man United,2,0,H,8,9,6,3
+58,E0,22/09/2019,16:30,Arsenal,Aston Villa,3,2,H,21,14,6,9
+59,E0,22/09/2019,16:30,Chelsea,Liverpool,1,2,A,13,6,2,3
+60,E0,28/09/2019,12:30,Sheffield United,Liverpool,0,1,A,12,16,2,4
+61,E0,28/09/2019,15:00,Aston Villa,Burnley,2,2,D,16,10,3,3
+62,E0,28/09/2019,15:00,Bournemouth,West Ham,2,2,D,13,17,5,6
+63,E0,28/09/2019,15:00,Chelsea,Brighton,2,0,H,24,8,10,1
+64,E0,28/09/2019,15:00,Crystal Palace,Norwich,2,0,H,15,10,3,3
+65,E0,28/09/2019,15:00,Tottenham,Southampton,2,1,H,9,14,4,6
+66,E0,28/09/2019,15:00,Wolves,Watford,2,0,H,6,14,2,5
+67,E0,28/09/2019,17:30,Everton,Man City,1,3,A,12,20,8,9
+68,E0,29/09/2019,16:30,Leicester,Newcastle,5,0,H,13,3,5,0
+69,E0,30/09/2019,20:00,Man United,Arsenal,1,1,D,16,10,4,5
+70,E0,05/10/2019,12:30,Brighton,Tottenham,3,0,H,17,8,6,3
+71,E0,05/10/2019,15:00,Burnley,Everton,1,0,H,9,11,3,2
+72,E0,05/10/2019,15:00,Liverpool,Leicester,2,1,H,18,2,8,1
+73,E0,05/10/2019,15:00,Norwich,Aston Villa,1,5,A,21,22,5,12
+74,E0,05/10/2019,15:00,Watford,Sheffield United,0,0,D,8,9,2,3
+75,E0,05/10/2019,17:30,West Ham,Crystal Palace,1,2,A,9,7,4,4
+76,E0,06/10/2019,14:00,Arsenal,Bournemouth,1,0,H,12,10,2,2
+77,E0,06/10/2019,14:00,Man City,Wolves,0,2,A,18,7,2,2
+78,E0,06/10/2019,14:00,Southampton,Chelsea,1,4,A,10,13,3,7
+79,E0,06/10/2019,16:30,Newcastle,Man United,1,0,H,12,12,2,3
+80,E0,19/10/2019,12:30,Everton,West Ham,2,0,H,19,8,10,4
+81,E0,19/10/2019,15:00,Aston Villa,Brighton,2,1,H,24,20,8,5
+82,E0,19/10/2019,15:00,Bournemouth,Norwich,0,0,D,11,10,2,1
+83,E0,19/10/2019,15:00,Chelsea,Newcastle,1,0,H,16,5,8,0
+84,E0,19/10/2019,15:00,Leicester,Burnley,2,1,H,19,13,3,4
+85,E0,19/10/2019,15:00,Tottenham,Watford,1,1,D,12,7,2,2
+86,E0,19/10/2019,15:00,Wolves,Southampton,1,1,D,4,14,1,5
+87,E0,19/10/2019,17:30,Crystal Palace,Man City,0,2,A,7,21,2,10
+88,E0,20/10/2019,16:30,Man United,Liverpool,1,1,D,7,10,2,4
+89,E0,21/10/2019,20:00,Sheffield United,Arsenal,1,0,H,8,9,2,3
+90,E0,25/10/2019,20:00,Southampton,Leicester,0,9,A,6,25,3,15
+91,E0,26/10/2019,12:30,Man City,Aston Villa,3,0,H,25,11,9,5
+92,E0,26/10/2019,15:00,Brighton,Everton,3,2,H,8,10,4,6
+93,E0,26/10/2019,15:00,Watford,Bournemouth,0,0,D,7,15,3,5
+94,E0,26/10/2019,15:00,West Ham,Sheffield United,1,1,D,12,10,4,4
+95,E0,26/10/2019,17:30,Burnley,Chelsea,2,4,A,13,16,5,7
+96,E0,27/10/2019,14:00,Newcastle,Wolves,1,1,D,13,13,2,5
+97,E0,27/10/2019,16:30,Arsenal,Crystal Palace,2,2,D,15,10,6,4
+98,E0,27/10/2019,16:30,Liverpool,Tottenham,2,1,H,21,11,13,4
+99,E0,27/10/2019,16:30,Norwich,Man United,1,3,A,10,21,3,11
+100,E0,02/11/2019,12:30,Bournemouth,Man United,1,0,H,12,15,6,4
+101,E0,02/11/2019,15:00,Arsenal,Wolves,1,1,D,10,25,4,8
+102,E0,02/11/2019,15:00,Aston Villa,Liverpool,1,2,A,5,25,2,6
+103,E0,02/11/2019,15:00,Brighton,Norwich,2,0,H,21,7,5,0
+104,E0,02/11/2019,15:00,Man City,Southampton,2,1,H,26,3,4,3
+105,E0,02/11/2019,15:00,Sheffield United,Burnley,3,0,H,13,6,6,0
+106,E0,02/11/2019,15:00,West Ham,Newcastle,2,3,A,16,12,6,9
+107,E0,02/11/2019,17:30,Watford,Chelsea,1,2,A,12,16,3,10
+108,E0,03/11/2019,14:00,Crystal Palace,Leicester,0,2,A,12,14,3,5
+109,E0,03/11/2019,16:30,Everton,Tottenham,1,1,D,7,4,3,2
+110,E0,08/11/2019,20:00,Norwich,Watford,0,2,A,17,12,5,2
+111,E0,09/11/2019,12:30,Chelsea,Crystal Palace,2,0,H,23,3,5,1
+112,E0,09/11/2019,15:00,Burnley,West Ham,3,0,H,14,7,12,4
+113,E0,09/11/2019,15:00,Newcastle,Bournemouth,2,1,H,20,16,9,3
+114,E0,09/11/2019,15:00,Southampton,Everton,1,2,A,4,24,3,5
+115,E0,09/11/2019,15:00,Tottenham,Sheffield United,1,1,D,17,14,5,4
+116,E0,09/11/2019,17:30,Leicester,Arsenal,2,0,H,19,8,7,1
+117,E0,10/11/2019,14:00,Man United,Brighton,3,1,H,21,6,11,2
+118,E0,10/11/2019,14:00,Wolves,Aston Villa,2,1,H,17,13,5,4
+119,E0,10/11/2019,16:30,Liverpool,Man City,3,1,H,12,18,5,3
+120,E0,23/11/2019,12:30,West Ham,Tottenham,2,3,A,11,15,4,6
+121,E0,23/11/2019,15:00,Arsenal,Southampton,2,2,D,12,21,5,6
+122,E0,23/11/2019,15:00,Bournemouth,Wolves,1,2,A,9,17,2,7
+123,E0,23/11/2019,15:00,Brighton,Leicester,0,2,A,7,19,0,9
+124,E0,23/11/2019,15:00,Crystal Palace,Liverpool,1,2,A,16,12,6,4
+125,E0,23/11/2019,15:00,Everton,Norwich,0,2,A,18,13,7,5
+126,E0,23/11/2019,15:00,Watford,Burnley,0,3,A,15,11,4,5
+127,E0,23/11/2019,17:30,Man City,Chelsea,2,1,H,15,11,4,2
+128,E0,24/11/2019,16:30,Sheffield United,Man United,3,3,D,12,11,8,5
+129,E0,25/11/2019,20:00,Aston Villa,Newcastle,2,0,H,17,11,8,5
+130,E0,30/11/2019,12:30,Newcastle,Man City,2,2,D,6,24,3,9
+131,E0,30/11/2019,15:00,Burnley,Crystal Palace,0,2,A,15,7,4,2
+132,E0,30/11/2019,15:00,Chelsea,West Ham,0,1,A,19,5,6,4
+133,E0,30/11/2019,15:00,Liverpool,Brighton,2,1,H,15,12,7,5
+134,E0,30/11/2019,15:00,Tottenham,Bournemouth,3,2,H,15,20,5,6
+135,E0,30/11/2019,17:30,Southampton,Watford,2,1,H,11,6,6,3
+136,E0,01/12/2019,14:00,Norwich,Arsenal,2,2,D,15,16,8,7
+137,E0,01/12/2019,14:00,Wolves,Sheffield United,1,1,D,13,9,3,4
+138,E0,01/12/2019,16:30,Leicester,Everton,2,1,H,16,11,6,3
+139,E0,01/12/2019,16:30,Man United,Aston Villa,2,2,D,16,9,6,3
+140,E0,03/12/2019,19:30,Crystal Palace,Bournemouth,1,0,H,7,6,2,3
+141,E0,03/12/2019,20:15,Burnley,Man City,1,4,A,4,17,2,8
+142,E0,04/12/2019,19:30,Chelsea,Aston Villa,2,1,H,25,9,9,3
+143,E0,04/12/2019,19:30,Leicester,Watford,2,0,H,12,4,6,1
+144,E0,04/12/2019,19:30,Man United,Tottenham,2,1,H,12,8,7,5
+145,E0,04/12/2019,19:30,Southampton,Norwich,2,1,H,14,10,5,3
+146,E0,04/12/2019,19:30,Wolves,West Ham,2,0,H,13,6,7,3
+147,E0,04/12/2019,20:15,Liverpool,Everton,5,2,H,11,12,5,4
+148,E0,05/12/2019,19:30,Sheffield United,Newcastle,0,2,A,13,6,6,4
+149,E0,05/12/2019,20:15,Arsenal,Brighton,1,2,A,12,20,5,9
+150,E0,07/12/2019,12:30,Everton,Chelsea,3,1,H,13,15,7,4
+151,E0,07/12/2019,15:00,Bournemouth,Liverpool,0,3,A,3,21,0,9
+152,E0,07/12/2019,15:00,Tottenham,Burnley,5,0,H,13,7,7,1
+153,E0,07/12/2019,15:00,Watford,Crystal Palace,0,0,D,13,3,3,0
+154,E0,07/12/2019,17:30,Man City,Man United,1,2,A,22,11,5,7
+155,E0,08/12/2019,14:00,Aston Villa,Leicester,1,4,A,15,23,2,8
+156,E0,08/12/2019,14:00,Newcastle,Southampton,2,1,H,12,19,6,4
+157,E0,08/12/2019,14:00,Norwich,Sheffield United,1,2,A,14,9,4,3
+158,E0,08/12/2019,16:30,Brighton,Wolves,2,2,D,13,13,4,5
+159,E0,09/12/2019,20:00,West Ham,Arsenal,1,3,A,11,10,4,3
+160,E0,14/12/2019,12:30,Liverpool,Watford,2,0,H,16,8,6,2
+161,E0,14/12/2019,15:00,Burnley,Newcastle,1,0,H,7,9,4,0
+162,E0,14/12/2019,15:00,Chelsea,Bournemouth,0,1,A,18,11,5,2
+163,E0,14/12/2019,15:00,Leicester,Norwich,1,1,D,18,10,5,3
+164,E0,14/12/2019,15:00,Sheffield United,Aston Villa,2,0,H,7,8,3,0
+165,E0,14/12/2019,17:30,Southampton,West Ham,0,1,A,11,11,2,4
+166,E0,15/12/2019,14:00,Man United,Everton,1,1,D,24,8,8,3
+167,E0,15/12/2019,14:00,Wolves,Tottenham,1,2,A,18,9,5,5
+168,E0,15/12/2019,16:30,Arsenal,Man City,0,3,A,6,14,1,7
+169,E0,16/12/2019,19:45,Crystal Palace,Brighton,1,1,D,11,15,4,10
+170,E0,21/12/2019,12:30,Everton,Arsenal,0,0,D,9,6,0,2
+171,E0,21/12/2019,15:00,Aston Villa,Southampton,1,3,A,19,17,6,8
+172,E0,21/12/2019,15:00,Bournemouth,Burnley,0,1,A,3,2,0,1
+173,E0,21/12/2019,15:00,Brighton,Sheffield United,0,1,A,9,7,2,2
+174,E0,21/12/2019,15:00,Newcastle,Crystal Palace,1,0,H,8,16,3,4
+175,E0,21/12/2019,15:00,Norwich,Wolves,1,2,A,13,14,7,4
+176,E0,21/12/2019,17:30,Man City,Leicester,3,1,H,23,5,12,2
+177,E0,22/12/2019,14:00,Watford,Man United,2,0,H,11,17,3,8
+178,E0,22/12/2019,16:30,Tottenham,Chelsea,0,2,A,5,13,1,3
+179,E0,26/12/2019,12:30,Tottenham,Brighton,2,1,H,11,11,5,5
+180,E0,26/12/2019,15:00,Aston Villa,Norwich,1,0,H,11,16,2,6
+181,E0,26/12/2019,15:00,Bournemouth,Arsenal,1,1,D,12,17,4,2
+182,E0,26/12/2019,15:00,Chelsea,Southampton,0,2,A,10,5,3,3
+183,E0,26/12/2019,15:00,Crystal Palace,West Ham,2,1,H,13,10,4,2
+184,E0,26/12/2019,15:00,Everton,Burnley,1,0,H,21,6,5,0
+185,E0,26/12/2019,15:00,Sheffield United,Watford,1,1,D,16,5,4,2
+186,E0,26/12/2019,17:30,Man United,Newcastle,4,1,H,22,7,10,2
+187,E0,26/12/2019,20:00,Leicester,Liverpool,0,4,A,3,15,0,6
+188,E0,27/12/2019,19:45,Wolves,Man City,3,2,H,20,7,8,3
+189,E0,28/12/2019,12:30,Brighton,Bournemouth,2,0,H,16,10,6,2
+190,E0,28/12/2019,15:00,Newcastle,Everton,1,2,A,20,22,5,9
+191,E0,28/12/2019,15:00,Southampton,Crystal Palace,1,1,D,14,5,5,2
+192,E0,28/12/2019,15:00,Watford,Aston Villa,3,0,H,20,11,6,2
+193,E0,28/12/2019,17:30,Norwich,Tottenham,2,2,D,5,15,2,7
+194,E0,28/12/2019,17:30,West Ham,Leicester,1,2,A,14,13,4,8
+195,E0,28/12/2019,19:45,Burnley,Man United,0,2,A,8,14,1,5
+196,E0,29/12/2019,14:00,Arsenal,Chelsea,1,2,A,7,13,2,4
+197,E0,29/12/2019,16:30,Liverpool,Wolves,1,0,H,10,10,3,2
+198,E0,29/12/2019,18:00,Man City,Sheffield United,2,0,H,16,8,4,0
+199,E0,01/01/2020,12:30,Brighton,Chelsea,1,1,D,16,16,5,5
+200,E0,01/01/2020,12:30,Burnley,Aston Villa,1,2,A,20,11,1,6
+201,E0,01/01/2020,15:00,Newcastle,Leicester,0,3,A,5,17,2,10
+202,E0,01/01/2020,15:00,Southampton,Tottenham,1,0,H,12,11,3,5
+203,E0,01/01/2020,15:00,Watford,Wolves,2,1,H,9,16,3,4
+204,E0,01/01/2020,17:30,Man City,Everton,2,1,H,16,7,7,2
+205,E0,01/01/2020,17:30,Norwich,Crystal Palace,1,1,D,15,12,4,3
+206,E0,01/01/2020,17:30,West Ham,Bournemouth,4,0,H,14,3,7,2
+207,E0,01/01/2020,20:00,Arsenal,Man United,2,0,H,10,10,4,4
+208,E0,02/01/2020,20:00,Liverpool,Sheffield United,2,0,H,19,3,7,2
+209,E0,10/01/2020,20:00,Sheffield United,West Ham,1,0,H,13,7,3,2
+210,E0,11/01/2020,12:30,Crystal Palace,Arsenal,1,1,D,6,7,3,4
+211,E0,11/01/2020,15:00,Chelsea,Burnley,3,0,H,18,7,8,2
+212,E0,11/01/2020,15:00,Everton,Brighton,1,0,H,14,9,6,2
+213,E0,11/01/2020,15:00,Leicester,Southampton,1,2,A,5,16,5,10
+214,E0,11/01/2020,15:00,Man United,Norwich,4,0,H,13,8,6,3
+215,E0,11/01/2020,15:00,Wolves,Newcastle,1,1,D,9,5,4,1
+216,E0,11/01/2020,17:30,Tottenham,Liverpool,0,1,A,14,13,4,7
+217,E0,12/01/2020,14:00,Bournemouth,Watford,0,3,A,10,18,1,6
+218,E0,12/01/2020,16:30,Aston Villa,Man City,1,6,A,7,22,1,12
+219,E0,18/01/2020,12:30,Watford,Tottenham,0,0,D,15,17,2,5
+220,E0,18/01/2020,15:00,Arsenal,Sheffield United,1,1,D,11,12,4,4
+221,E0,18/01/2020,15:00,Brighton,Aston Villa,1,1,D,10,8,2,3
+222,E0,18/01/2020,15:00,Man City,Crystal Palace,2,2,D,25,5,6,3
+223,E0,18/01/2020,15:00,Norwich,Bournemouth,1,0,H,16,6,5,3
+224,E0,18/01/2020,15:00,Southampton,Wolves,2,3,A,11,8,5,4
+225,E0,18/01/2020,15:00,West Ham,Everton,1,1,D,12,11,6,3
+226,E0,18/01/2020,17:30,Newcastle,Chelsea,1,0,H,7,19,2,4
+227,E0,19/01/2020,14:00,Burnley,Leicester,2,1,H,8,18,5,8
+228,E0,19/01/2020,16:30,Liverpool,Man United,2,0,H,16,9,5,4
+229,E0,21/01/2020,19:30,Aston Villa,Watford,2,1,H,16,8,5,2
+230,E0,21/01/2020,19:30,Bournemouth,Brighton,3,1,H,11,21,3,8
+231,E0,21/01/2020,19:30,Crystal Palace,Southampton,0,2,A,6,15,0,6
+232,E0,21/01/2020,19:30,Everton,Newcastle,2,2,D,17,8,8,2
+233,E0,21/01/2020,19:30,Sheffield United,Man City,0,1,A,4,18,1,5
+234,E0,21/01/2020,20:15,Chelsea,Arsenal,2,2,D,19,2,8,2
+235,E0,22/01/2020,19:30,Leicester,West Ham,4,1,H,19,6,8,2
+236,E0,22/01/2020,19:30,Tottenham,Norwich,2,1,H,14,12,3,2
+237,E0,22/01/2020,20:15,Man United,Burnley,0,2,A,24,5,7,2
+238,E0,23/01/2020,20:00,Wolves,Liverpool,1,2,A,10,13,3,6
+239,E0,29/01/2020,19:45,West Ham,Liverpool,0,2,A,7,13,4,5
+240,E0,01/02/2020,12:30,Leicester,Chelsea,2,2,D,14,7,4,3
+241,E0,01/02/2020,15:00,Bournemouth,Aston Villa,2,1,H,16,18,6,5
+242,E0,01/02/2020,15:00,Crystal Palace,Sheffield United,0,1,A,13,10,3,3
+243,E0,01/02/2020,15:00,Liverpool,Southampton,4,0,H,16,17,9,4
+244,E0,01/02/2020,15:00,Newcastle,Norwich,0,0,D,15,19,5,4
+245,E0,01/02/2020,15:00,Watford,Everton,2,3,A,11,12,2,5
+246,E0,01/02/2020,15:00,West Ham,Brighton,3,3,D,12,19,6,6
+247,E0,01/02/2020,17:30,Man United,Wolves,0,0,D,15,14,5,3
+248,E0,02/02/2020,14:00,Burnley,Arsenal,0,0,D,15,13,2,2
+249,E0,02/02/2020,16:30,Tottenham,Man City,2,0,H,3,18,3,5
+250,E0,08/02/2020,12:30,Everton,Crystal Palace,3,1,H,14,10,8,2
+251,E0,08/02/2020,17:30,Brighton,Watford,1,1,D,10,5,2,2
+252,E0,09/02/2020,14:00,Sheffield United,Bournemouth,2,1,H,16,10,6,2
+253,E0,14/02/2020,20:00,Wolves,Leicester,0,0,D,15,9,3,3
+254,E0,15/02/2020,12:30,Southampton,Burnley,1,2,A,10,9,2,6
+255,E0,15/02/2020,17:30,Norwich,Liverpool,0,1,A,5,17,1,6
+256,E0,16/02/2020,14:00,Aston Villa,Tottenham,2,3,A,18,23,4,10
+257,E0,16/02/2020,16:30,Arsenal,Newcastle,4,0,H,15,10,7,2
+258,E0,17/02/2020,20:00,Chelsea,Man United,0,2,A,17,9,1,3
+259,E0,19/02/2020,19:30,Man City,West Ham,2,0,H,20,3,7,0
+260,E0,22/02/2020,12:30,Chelsea,Tottenham,2,1,H,17,5,7,3
+261,E0,22/02/2020,15:00,Burnley,Bournemouth,3,0,H,16,12,10,4
+262,E0,22/02/2020,15:00,Crystal Palace,Newcastle,1,0,H,18,8,9,2
+263,E0,22/02/2020,15:00,Sheffield United,Brighton,1,1,D,14,8,3,2
+264,E0,22/02/2020,15:00,Southampton,Aston Villa,2,0,H,28,4,9,1
+265,E0,22/02/2020,17:30,Leicester,Man City,0,1,A,10,18,3,7
+266,E0,23/02/2020,14:00,Man United,Watford,3,0,H,21,7,9,2
+267,E0,23/02/2020,14:00,Wolves,Norwich,3,0,H,19,6,6,4
+268,E0,23/02/2020,16:30,Arsenal,Everton,3,2,H,9,17,4,5
+269,E0,24/02/2020,20:00,Liverpool,West Ham,3,2,H,25,7,7,4
+270,E0,28/02/2020,20:00,Norwich,Leicester,1,0,H,11,19,6,4
+271,E0,29/02/2020,12:30,Brighton,Crystal Palace,0,1,A,24,12,8,3
+272,E0,29/02/2020,15:00,Bournemouth,Chelsea,2,2,D,9,23,5,6
+273,E0,29/02/2020,15:00,Newcastle,Burnley,0,0,D,21,8,4,1
+274,E0,29/02/2020,15:00,West Ham,Southampton,3,1,H,14,10,7,2
+275,E0,29/02/2020,17:30,Watford,Liverpool,3,0,H,14,7,5,1
+276,E0,01/03/2020,14:00,Everton,Man United,1,1,D,16,14,5,5
+277,E0,01/03/2020,14:00,Tottenham,Wolves,2,3,A,13,14,5,4
+278,E0,07/03/2020,12:30,Liverpool,Bournemouth,2,1,H,14,6,6,4
+279,E0,07/03/2020,15:00,Arsenal,West Ham,1,0,H,9,14,2,6
+280,E0,07/03/2020,15:00,Crystal Palace,Watford,1,0,H,10,10,3,4
+281,E0,07/03/2020,15:00,Sheffield United,Norwich,1,0,H,10,12,4,5
+282,E0,07/03/2020,15:00,Southampton,Newcastle,0,1,A,6,14,3,7
+283,E0,07/03/2020,15:00,Wolves,Brighton,0,0,D,11,7,1,1
+284,E0,07/03/2020,17:30,Burnley,Tottenham,1,1,D,21,13,8,2
+285,E0,08/03/2020,14:00,Chelsea,Everton,4,0,H,17,3,11,1
+286,E0,08/03/2020,16:30,Man United,Man City,2,0,H,12,7,6,2
+287,E0,09/03/2020,20:00,Leicester,Aston Villa,4,0,H,15,4,7,1
+288,E0,17/06/2020,18:00,Aston Villa,Sheffield United,0,0,D,14,5,6,1
+289,E0,17/06/2020,20:15,Man City,Arsenal,3,0,H,20,3,12,0
+290,E0,19/06/2020,18:00,Norwich,Southampton,0,3,A,9,22,1,9
+291,E0,19/06/2020,20:15,Tottenham,Man United,1,1,D,10,12,3,6
+292,E0,20/06/2020,12:30,Watford,Leicester,1,1,D,8,15,4,2
+293,E0,20/06/2020,15:00,Brighton,Arsenal,2,1,H,9,13,5,6
+294,E0,20/06/2020,17:30,West Ham,Wolves,0,2,A,7,10,2,6
+295,E0,20/06/2020,19:45,Bournemouth,Crystal Palace,0,2,A,12,7,1,2
+296,E0,21/06/2020,14:00,Newcastle,Sheffield United,3,0,H,12,7,8,1
+297,E0,21/06/2020,16:15,Aston Villa,Chelsea,1,2,A,8,19,4,5
+298,E0,21/06/2020,19:00,Everton,Liverpool,0,0,D,9,10,3,3
+299,E0,22/06/2020,20:00,Man City,Burnley,5,0,H,19,1,7,0
+300,E0,23/06/2020,18:00,Leicester,Brighton,0,0,D,11,10,2,2
+301,E0,23/06/2020,20:15,Tottenham,West Ham,2,0,H,15,10,4,2
+302,E0,24/06/2020,18:00,Man United,Sheffield United,3,0,H,15,4,6,1
+303,E0,24/06/2020,18:00,Newcastle,Aston Villa,1,1,D,13,14,3,2
+304,E0,24/06/2020,18:00,Norwich,Everton,0,1,A,9,12,1,5
+305,E0,24/06/2020,18:00,Wolves,Bournemouth,1,0,H,10,4,2,0
+306,E0,24/06/2020,20:15,Liverpool,Crystal Palace,4,0,H,21,3,7,0
+307,E0,25/06/2020,18:00,Burnley,Watford,1,0,H,9,10,5,4
+308,E0,25/06/2020,18:00,Southampton,Arsenal,0,2,A,12,10,3,5
+309,E0,25/06/2020,20:15,Chelsea,Man City,2,1,H,15,11,10,2
+310,E0,27/06/2020,12:30,Aston Villa,Wolves,0,1,A,11,9,1,2
+311,E0,28/06/2020,16:30,Watford,Southampton,1,3,A,8,11,0,7
+312,E0,29/06/2020,20:00,Crystal Palace,Burnley,0,1,A,17,8,4,4
+313,E0,30/06/2020,20:15,Brighton,Man United,0,3,A,8,12,2,6
+314,E0,01/07/2020,18:00,Arsenal,Norwich,4,0,H,13,8,8,2
+315,E0,01/07/2020,18:00,Bournemouth,Newcastle,1,4,A,12,12,1,7
+316,E0,01/07/2020,18:00,Everton,Leicester,2,1,H,7,15,2,3
+317,E0,01/07/2020,20:15,West Ham,Chelsea,3,2,H,10,17,4,6
+318,E0,02/07/2020,18:00,Sheffield United,Tottenham,3,1,H,7,9,5,2
+319,E0,02/07/2020,20:15,Man City,Liverpool,4,0,H,14,11,6,3
+320,E0,04/07/2020,12:30,Norwich,Brighton,0,1,A,12,8,1,2
+321,E0,04/07/2020,15:00,Leicester,Crystal Palace,3,0,H,15,7,4,1
+322,E0,04/07/2020,15:00,Man United,Bournemouth,5,2,H,19,7,10,3
+323,E0,04/07/2020,17:30,Wolves,Arsenal,0,2,A,10,8,1,5
+324,E0,04/07/2020,20:00,Chelsea,Watford,3,0,H,21,7,9,3
+325,E0,05/07/2020,12:00,Burnley,Sheffield United,1,1,D,9,10,4,3
+326,E0,05/07/2020,14:15,Newcastle,West Ham,2,2,D,11,17,4,7
+327,E0,05/07/2020,16:30,Liverpool,Aston Villa,2,0,H,6,9,4,3
+328,E0,05/07/2020,19:00,Southampton,Man City,1,0,H,8,26,4,6
+329,E0,06/07/2020,20:00,Tottenham,Everton,1,0,H,12,11,2,3
+330,E0,07/07/2020,18:00,Crystal Palace,Chelsea,2,3,A,13,14,4,6
+331,E0,07/07/2020,18:00,Watford,Norwich,2,1,H,9,12,4,3
+332,E0,07/07/2020,20:15,Arsenal,Leicester,1,1,D,11,13,7,5
+333,E0,08/07/2020,18:00,Man City,Newcastle,5,0,H,23,6,9,1
+334,E0,08/07/2020,18:00,Sheffield United,Wolves,1,0,H,7,6,3,1
+335,E0,08/07/2020,18:00,West Ham,Burnley,0,1,A,21,8,5,4
+336,E0,08/07/2020,20:15,Brighton,Liverpool,1,3,A,12,19,2,8
+337,E0,09/07/2020,18:00,Bournemouth,Tottenham,0,0,D,9,9,2,0
+338,E0,09/07/2020,18:00,Everton,Southampton,1,1,D,11,17,4,4
+339,E0,09/07/2020,20:15,Aston Villa,Man United,0,3,A,9,14,1,6
+340,E0,11/07/2020,12:30,Norwich,West Ham,0,4,A,11,19,2,7
+341,E0,11/07/2020,12:30,Watford,Newcastle,2,1,H,17,8,5,4
+342,E0,11/07/2020,15:00,Liverpool,Burnley,1,1,D,23,6,9,2
+343,E0,11/07/2020,17:30,Sheffield United,Chelsea,3,0,H,9,15,4,4
+344,E0,11/07/2020,20:00,Brighton,Man City,0,5,A,3,26,0,8
+345,E0,12/07/2020,12:00,Wolves,Everton,3,0,H,14,6,7,2
+346,E0,12/07/2020,14:15,Aston Villa,Crystal Palace,2,0,H,12,9,9,5
+347,E0,12/07/2020,16:30,Tottenham,Arsenal,2,1,H,15,13,9,4
+348,E0,12/07/2020,19:00,Bournemouth,Leicester,4,1,H,10,13,4,5
+349,E0,13/07/2020,20:00,Man United,Southampton,2,2,D,8,9,4,5
+350,E0,14/07/2020,20:15,Chelsea,Norwich,1,0,H,22,2,6,0
+351,E0,15/07/2020,18:00,Burnley,Wolves,1,1,D,9,14,1,5
+352,E0,15/07/2020,18:00,Man City,Bournemouth,2,1,H,8,15,4,3
+353,E0,15/07/2020,18:00,Newcastle,Tottenham,1,3,A,22,8,6,5
+354,E0,15/07/2020,20:15,Arsenal,Liverpool,2,1,H,3,24,2,8
+355,E0,16/07/2020,18:00,Everton,Aston Villa,1,1,D,9,15,1,1
+356,E0,16/07/2020,18:00,Leicester,Sheffield United,2,0,H,15,5,7,1
+357,E0,16/07/2020,20:15,Crystal Palace,Man United,0,2,A,13,17,5,5
+358,E0,16/07/2020,20:15,Southampton,Brighton,1,1,D,21,10,6,2
+359,E0,17/07/2020,20:00,West Ham,Watford,3,1,H,10,14,4,3
+360,E0,18/07/2020,17:30,Norwich,Burnley,0,2,A,6,23,2,8
+361,E0,19/07/2020,14:00,Bournemouth,Southampton,0,2,A,11,16,3,8
+362,E0,19/07/2020,16:00,Tottenham,Leicester,3,0,H,7,24,3,6
+363,E0,20/07/2020,18:00,Brighton,Newcastle,0,0,D,11,12,3,1
+364,E0,20/07/2020,18:00,Sheffield United,Everton,0,1,A,8,5,0,2
+365,E0,20/07/2020,20:15,Wolves,Crystal Palace,2,0,H,11,7,5,3
+366,E0,21/07/2020,18:00,Watford,Man City,0,4,A,2,26,0,10
+367,E0,21/07/2020,20:15,Aston Villa,Arsenal,1,0,H,8,7,3,0
+368,E0,22/07/2020,18:00,Man United,West Ham,1,1,D,11,12,4,3
+369,E0,22/07/2020,20:15,Liverpool,Chelsea,5,3,H,10,10,7,5
+370,E0,26/07/2020,16:00,Arsenal,Watford,3,2,H,13,19,5,6
+371,E0,26/07/2020,16:00,Burnley,Brighton,1,2,A,13,14,2,4
+372,E0,26/07/2020,16:00,Chelsea,Wolves,2,0,H,11,5,3,1
+373,E0,26/07/2020,16:00,Crystal Palace,Tottenham,1,1,D,13,7,2,2
+374,E0,26/07/2020,16:00,Everton,Bournemouth,1,3,A,13,13,5,7
+375,E0,26/07/2020,16:00,Leicester,Man United,0,2,A,14,7,3,3
+376,E0,26/07/2020,16:00,Man City,Norwich,5,0,H,31,5,10,4
+377,E0,26/07/2020,16:00,Newcastle,Liverpool,1,3,A,3,14,2,6
+378,E0,26/07/2020,16:00,Southampton,Sheffield United,3,1,H,13,5,4,3
+379,E0,26/07/2020,16:00,West Ham,Aston Villa,1,1,D,10,13,1,4
+0,E1,03/08/2019,15:00,Barnsley,Fulham,1,0,H,17,15,4,4
+1,E1,03/08/2019,17:30,Nott'm Forest,West Brom,1,2,A,15,12,4,3
+2,E1,04/08/2019,16:30,Bristol City,Leeds,1,3,A,13,18,3,4
+3,E1,10/08/2019,12:30,Leeds,Nott'm Forest,1,1,D,14,6,4,1
+4,E1,10/08/2019,15:00,Fulham,Blackburn,2,0,H,12,9,2,0
+5,E1,10/08/2019,15:00,West Brom,Millwall,1,1,D,10,9,4,2
+6,E1,16/08/2019,19:45,Huddersfield,Fulham,1,2,A,6,17,1,8
+7,E1,17/08/2019,15:00,Luton,West Brom,1,2,A,8,24,4,3
+8,E1,17/08/2019,15:00,Wigan,Leeds,0,2,A,6,20,2,6
+9,E1,21/08/2019,19:45,Fulham,Millwall,4,0,H,11,7,7,1
+10,E1,21/08/2019,19:45,Leeds,Brentford,1,0,H,11,5,4,1
+11,E1,21/08/2019,20:00,West Brom,Reading,1,1,D,20,10,4,5
+12,E1,24/08/2019,12:30,Derby,West Brom,1,1,D,11,13,4,4
+13,E1,24/08/2019,15:00,Fulham,Nott'm Forest,1,2,A,20,11,6,3
+14,E1,24/08/2019,15:00,Stoke,Leeds,0,3,A,7,21,2,10
+15,E1,30/08/2019,19:45,Cardiff,Fulham,1,1,D,9,11,2,4
+16,E1,31/08/2019,15:00,Leeds,Swansea,0,1,A,21,7,3,2
+17,E1,31/08/2019,15:00,West Brom,Blackburn,3,2,H,21,7,8,4
+18,E1,14/09/2019,12:30,Fulham,West Brom,1,1,D,17,9,6,3
+19,E1,15/09/2019,12:30,Barnsley,Leeds,0,2,A,17,21,6,7
+20,E1,21/09/2019,12:30,Leeds,Derby,1,1,D,13,4,5,1
+21,E1,21/09/2019,15:00,Sheffield Weds,Fulham,1,1,D,12,9,5,2
+22,E1,22/09/2019,12:00,West Brom,Huddersfield,4,2,H,17,5,7,2
+23,E1,27/09/2019,19:45,Fulham,Wigan,2,0,H,21,5,6,0
+24,E1,28/09/2019,12:30,QPR,West Brom,0,2,A,5,15,0,7
+25,E1,28/09/2019,15:00,Charlton,Leeds,1,0,H,3,19,3,4
+26,E1,01/10/2019,19:45,Leeds,West Brom,1,0,H,19,10,9,4
+27,E1,01/10/2019,20:00,Reading,Fulham,1,4,A,8,16,2,7
+28,E1,05/10/2019,12:30,Fulham,Charlton,2,2,D,20,14,7,5
+29,E1,05/10/2019,15:00,Millwall,Leeds,2,1,H,12,5,7,1
+30,E1,05/10/2019,15:00,West Brom,Cardiff,4,2,H,15,18,8,8
+31,E1,19/10/2019,15:00,Leeds,Birmingham,1,0,H,15,16,5,4
+32,E1,19/10/2019,15:00,Middlesbrough,West Brom,0,1,A,17,19,7,4
+33,E1,19/10/2019,15:00,Stoke,Fulham,2,0,H,9,10,5,4
+34,E1,22/10/2019,19:45,Preston,Leeds,1,1,D,10,22,2,3
+35,E1,22/10/2019,20:00,West Brom,Barnsley,2,2,D,11,11,3,3
+36,E1,23/10/2019,19:45,Fulham,Luton,3,2,H,20,13,8,3
+37,E1,26/10/2019,12:30,Sheffield Weds,Leeds,0,0,D,11,9,4,3
+38,E1,26/10/2019,15:00,Middlesbrough,Fulham,0,0,D,14,7,1,1
+39,E1,26/10/2019,15:00,West Brom,Charlton,2,2,D,13,13,5,5
+40,E1,02/11/2019,15:00,Fulham,Hull,0,3,A,8,10,1,5
+41,E1,02/11/2019,15:00,Leeds,QPR,2,0,H,18,6,6,1
+42,E1,04/11/2019,20:00,Stoke,West Brom,0,2,A,8,9,3,3
+43,E1,09/11/2019,15:00,Birmingham,Fulham,0,1,A,16,10,4,3
+44,E1,09/11/2019,15:00,Hull,West Brom,0,1,A,10,9,3,2
+45,E1,09/11/2019,15:00,Leeds,Blackburn,2,1,H,15,4,4,1
+46,E1,22/11/2019,19:45,Fulham,QPR,2,1,H,11,19,4,7
+47,E1,23/11/2019,15:00,Luton,Leeds,1,2,A,11,21,5,12
+48,E1,23/11/2019,15:00,West Brom,Sheffield Weds,2,1,H,9,15,3,2
+49,E1,26/11/2019,19:45,Fulham,Derby,3,0,H,17,8,8,0
+50,E1,26/11/2019,20:00,Reading,Leeds,0,1,A,8,16,2,2
+51,E1,27/11/2019,20:00,West Brom,Bristol City,4,1,H,15,9,7,1
+52,E1,29/11/2019,19:45,Swansea,Fulham,1,2,A,18,10,7,4
+53,E1,30/11/2019,15:00,Leeds,Middlesbrough,4,0,H,16,7,10,1
+54,E1,02/12/2019,19:45,Preston,West Brom,0,1,A,7,11,2,4
+55,E1,07/12/2019,12:30,Huddersfield,Leeds,0,2,A,10,14,3,4
+56,E1,07/12/2019,15:00,Fulham,Bristol City,1,2,A,21,12,5,3
+57,E1,08/12/2019,12:00,West Brom,Swansea,5,1,H,19,11,9,4
+58,E1,10/12/2019,19:45,Leeds,Hull,2,0,H,12,11,2,2
+59,E1,10/12/2019,19:45,Preston,Fulham,2,1,H,19,15,7,1
+60,E1,11/12/2019,19:45,Wigan,West Brom,1,1,D,14,6,5,2
+61,E1,14/12/2019,12:30,Birmingham,West Brom,2,3,A,16,9,6,3
+62,E1,14/12/2019,15:00,Brentford,Fulham,1,0,H,23,11,7,2
+63,E1,14/12/2019,15:00,Leeds,Cardiff,3,3,D,25,10,8,3
+64,E1,21/12/2019,15:00,Fulham,Leeds,2,1,H,7,15,3,7
+65,E1,21/12/2019,15:00,West Brom,Brentford,1,1,D,12,15,4,3
+66,E1,26/12/2019,15:00,Barnsley,West Brom,1,1,D,22,7,8,2
+67,E1,26/12/2019,15:00,Luton,Fulham,3,3,D,10,19,3,12
+68,E1,26/12/2019,17:15,Leeds,Preston,1,1,D,17,12,4,2
+69,E1,29/12/2019,15:00,Birmingham,Leeds,4,5,A,15,11,4,5
+70,E1,29/12/2019,15:00,Fulham,Stoke,1,0,H,10,11,5,6
+71,E1,29/12/2019,15:00,West Brom,Middlesbrough,0,2,A,11,15,5,10
+72,E1,01/01/2020,15:00,Fulham,Reading,1,2,A,20,11,6,3
+73,E1,01/01/2020,17:15,West Brom,Leeds,1,1,D,13,10,6,2
+74,E1,11/01/2020,15:00,Charlton,West Brom,2,2,D,7,19,2,5
+75,E1,11/01/2020,15:00,Hull,Fulham,0,1,A,9,4,2,1
+76,E1,11/01/2020,15:00,Leeds,Sheffield Weds,0,2,A,14,10,5,2
+77,E1,17/01/2020,19:45,Fulham,Middlesbrough,1,0,H,17,8,6,0
+78,E1,18/01/2020,12:30,QPR,Leeds,1,0,H,9,17,2,3
+79,E1,20/01/2020,20:00,West Brom,Stoke,0,1,A,16,4,2,2
+80,E1,22/01/2020,19:45,Charlton,Fulham,0,0,D,4,11,1,4
+81,E1,28/01/2020,19:45,Cardiff,West Brom,2,1,H,10,16,5,3
+82,E1,28/01/2020,19:45,Leeds,Millwall,3,2,H,28,11,11,5
+83,E1,01/02/2020,15:00,Fulham,Huddersfield,3,2,H,10,12,3,8
+84,E1,01/02/2020,15:00,Leeds,Wigan,0,1,A,18,5,5,2
+85,E1,01/02/2020,15:00,West Brom,Luton,2,0,H,16,6,6,0
+86,E1,08/02/2020,15:00,Blackburn,Fulham,0,1,A,4,11,1,4
+87,E1,08/02/2020,17:30,Nott'm Forest,Leeds,2,0,H,14,13,6,1
+88,E1,09/02/2020,13:30,Millwall,West Brom,0,2,A,7,29,3,6
+89,E1,11/02/2020,19:45,Brentford,Leeds,1,1,D,7,13,2,6
+90,E1,12/02/2020,19:45,Millwall,Fulham,1,1,D,9,9,2,2
+91,E1,12/02/2020,20:00,Reading,West Brom,1,2,A,11,26,1,7
+92,E1,15/02/2020,12:30,West Brom,Nott'm Forest,2,2,D,18,8,9,1
+93,E1,15/02/2020,15:00,Fulham,Barnsley,0,3,A,21,14,8,6
+94,E1,15/02/2020,15:00,Leeds,Bristol City,1,0,H,21,3,6,1
+95,E1,21/02/2020,19:45,Derby,Fulham,1,1,D,14,17,7,5
+96,E1,22/02/2020,15:00,Bristol City,West Brom,0,3,A,7,17,1,8
+97,E1,22/02/2020,15:00,Leeds,Reading,1,0,H,18,8,5,2
+98,E1,25/02/2020,20:00,West Brom,Preston,2,0,H,21,5,9,0
+99,E1,26/02/2020,19:45,Fulham,Swansea,1,0,H,15,6,6,2
+100,E1,26/02/2020,19:45,Middlesbrough,Leeds,0,1,A,14,12,2,8
+101,E1,29/02/2020,12:30,Hull,Leeds,0,4,A,8,17,2,8
+102,E1,29/02/2020,15:00,Fulham,Preston,2,0,H,15,8,4,2
+103,E1,29/02/2020,15:00,West Brom,Wigan,0,1,A,9,13,3,5
+104,E1,07/03/2020,12:30,Bristol City,Fulham,1,1,D,14,19,8,5
+105,E1,07/03/2020,15:00,Leeds,Huddersfield,2,0,H,16,6,5,2
+106,E1,07/03/2020,15:00,Swansea,West Brom,0,0,D,9,10,2,1
+107,E1,20/06/2020,12:30,Fulham,Brentford,0,2,A,9,13,4,5
+108,E1,20/06/2020,15:00,West Brom,Birmingham,0,0,D,20,7,2,2
+109,E1,21/06/2020,12:00,Cardiff,Leeds,2,0,H,7,13,2,3
+110,E1,26/06/2020,19:45,Brentford,West Brom,1,0,H,9,12,2,2
+111,E1,27/06/2020,15:00,Leeds,Fulham,3,0,H,10,12,5,5
+112,E1,30/06/2020,18:30,QPR,Fulham,1,2,A,11,14,2,5
+113,E1,30/06/2020,19:45,Leeds,Luton,1,1,D,23,3,9,2
+114,E1,01/07/2020,19:45,Sheffield Weds,West Brom,0,3,A,14,9,2,4
+115,E1,04/07/2020,15:00,Blackburn,Leeds,1,3,A,11,17,3,5
+116,E1,04/07/2020,15:00,Fulham,Birmingham,1,0,H,15,6,5,2
+117,E1,05/07/2020,15:00,West Brom,Hull,4,2,H,22,15,10,4
+118,E1,07/07/2020,17:00,Nott'm Forest,Fulham,0,1,A,10,9,4,2
+119,E1,08/07/2020,17:00,West Brom,Derby,2,0,H,18,4,7,0
+120,E1,09/07/2020,17:00,Leeds,Stoke,5,0,H,19,5,11,0
+121,E1,10/07/2020,20:15,Fulham,Cardiff,2,0,H,14,13,7,1
+122,E1,11/07/2020,15:00,Blackburn,West Brom,1,1,D,7,18,4,8
+123,E1,12/07/2020,13:30,Swansea,Leeds,0,1,A,6,12,3,4
+124,E1,14/07/2020,17:00,West Brom,Fulham,0,0,D,12,6,3,2
+125,E1,16/07/2020,17:00,Leeds,Barnsley,1,0,H,7,12,3,3
+126,E1,17/07/2020,17:30,Huddersfield,West Brom,2,1,H,7,13,4,4
+127,E1,18/07/2020,15:00,Fulham,Sheffield Weds,5,3,H,12,14,8,6
+128,E1,19/07/2020,14:00,Derby,Leeds,1,3,A,10,23,2,8
+129,E1,22/07/2020,19:30,Leeds,Charlton,4,0,H,21,10,8,4
+130,E1,22/07/2020,19:30,West Brom,QPR,2,2,D,16,7,6,3
+131,E1,22/07/2020,19:30,Wigan,Fulham,1,1,D,13,19,7,4
+0,E0,12/09/2020,12:30,Fulham,Arsenal,0,3,A,5,13,2,6
+1,E0,12/09/2020,15:00,Crystal Palace,Southampton,1,0,H,5,9,3,5
+2,E0,12/09/2020,17:30,Liverpool,Leeds,4,3,H,22,6,6,3
+3,E0,12/09/2020,20:00,West Ham,Newcastle,0,2,A,15,15,3,2
+4,E0,13/09/2020,14:00,West Brom,Leicester,0,3,A,7,13,1,7
+5,E0,13/09/2020,16:30,Tottenham,Everton,0,1,A,9,15,5,4
+6,E0,14/09/2020,20:15,Brighton,Chelsea,1,3,A,13,10,3,5
+7,E0,14/09/2020,18:00,Sheffield United,Wolves,0,2,A,9,11,2,4
+8,E0,19/09/2020,12:30,Everton,West Brom,5,2,H,17,6,7,4
+9,E0,19/09/2020,15:00,Leeds,Fulham,4,3,H,10,14,7,6
+10,E0,19/09/2020,17:30,Man United,Crystal Palace,1,3,A,13,14,4,5
+11,E0,19/09/2020,20:00,Arsenal,West Ham,2,1,H,7,14,3,3
+12,E0,20/09/2020,12:00,Southampton,Tottenham,2,5,A,14,9,7,6
+13,E0,20/09/2020,14:00,Newcastle,Brighton,0,3,A,6,13,0,6
+14,E0,20/09/2020,16:30,Chelsea,Liverpool,0,2,A,5,18,3,6
+15,E0,20/09/2020,19:00,Leicester,Burnley,4,2,H,14,16,6,5
+16,E0,21/09/2020,18:00,Aston Villa,Sheffield United,1,0,H,18,4,2,1
+17,E0,21/09/2020,20:15,Wolves,Man City,1,3,A,10,14,1,9
+18,E0,26/09/2020,12:30,Brighton,Man United,2,3,A,18,7,5,3
+19,E0,26/09/2020,15:00,Crystal Palace,Everton,1,2,A,8,10,1,5
+20,E0,26/09/2020,17:30,West Brom,Chelsea,3,3,D,9,22,3,10
+21,E0,26/09/2020,20:00,Burnley,Southampton,0,1,A,10,5,2,1
+22,E0,27/09/2020,12:00,Sheffield United,Leeds,0,1,A,14,17,4,9
+23,E0,27/09/2020,14:00,Tottenham,Newcastle,1,1,D,23,6,12,1
+24,E0,27/09/2020,16:30,Man City,Leicester,2,5,A,16,7,5,7
+25,E0,27/09/2020,19:00,West Ham,Wolves,4,0,H,15,11,7,2
+26,E0,28/09/2020,17:45,Fulham,Aston Villa,0,3,A,16,12,3,5
+27,E0,28/09/2020,20:00,Liverpool,Arsenal,3,1,H,21,4,8,3
+28,E0,03/10/2020,12:30,Chelsea,Crystal Palace,4,0,H,17,4,6,0
+29,E0,03/10/2020,15:00,Everton,Brighton,4,2,H,11,11,6,3
+30,E0,03/10/2020,17:30,Leeds,Man City,1,1,D,12,23,7,2
+31,E0,03/10/2020,20:00,Newcastle,Burnley,3,1,H,10,7,5,3
+32,E0,04/10/2020,12:00,Leicester,West Ham,0,3,A,4,14,0,6
+33,E0,04/10/2020,12:00,Southampton,West Brom,2,0,H,13,5,7,2
+34,E0,04/10/2020,14:00,Arsenal,Sheffield United,2,1,H,6,6,5,2
+35,E0,04/10/2020,14:00,Wolves,Fulham,1,0,H,14,10,5,2
+36,E0,04/10/2020,16:30,Man United,Tottenham,1,6,A,5,22,2,8
+37,E0,04/10/2020,19:15,Aston Villa,Liverpool,7,2,H,18,14,11,8
+38,E0,17/10/2020,12:30,Everton,Liverpool,2,2,D,11,22,5,8
+39,E0,17/10/2020,15:00,Chelsea,Southampton,3,3,D,11,13,5,6
+40,E0,17/10/2020,17:30,Man City,Arsenal,1,0,H,13,11,5,3
+41,E0,17/10/2020,20:00,Newcastle,Man United,1,4,A,7,28,4,14
+42,E0,18/10/2020,12:00,Sheffield United,Fulham,1,1,D,10,15,6,6
+43,E0,18/10/2020,14:00,Crystal Palace,Brighton,1,1,D,1,20,1,3
+44,E0,18/10/2020,16:30,Tottenham,West Ham,3,3,D,11,13,6,4
+45,E0,18/10/2020,19:15,Leicester,Aston Villa,0,1,A,11,10,5,4
+46,E0,19/10/2020,17:30,West Brom,Burnley,0,0,D,13,9,6,4
+47,E0,19/10/2020,20:00,Leeds,Wolves,0,1,A,13,7,2,3
+48,E0,23/10/2020,20:00,Aston Villa,Leeds,0,3,A,12,27,4,9
+49,E0,24/10/2020,12:30,West Ham,Man City,1,1,D,6,14,2,7
+50,E0,24/10/2020,15:00,Fulham,Crystal Palace,1,2,A,16,14,3,10
+51,E0,24/10/2020,17:30,Man United,Chelsea,0,0,D,14,6,4,1
+52,E0,24/10/2020,20:00,Liverpool,Sheffield United,2,1,H,17,13,5,2
+53,E0,25/10/2020,14:00,Southampton,Everton,2,0,H,12,6,6,2
+54,E0,25/10/2020,16:30,Wolves,Newcastle,1,1,D,16,5,3,2
+55,E0,25/10/2020,19:15,Arsenal,Leicester,0,1,A,12,6,4,2
+56,E0,26/10/2020,17:30,Brighton,West Brom,1,1,D,5,9,3,3
+57,E0,26/10/2020,20:00,Burnley,Tottenham,0,1,A,13,9,4,3
+58,E0,30/10/2020,20:00,Wolves,Crystal Palace,2,0,H,15,11,5,2
+59,E0,31/10/2020,12:30,Sheffield United,Man City,0,1,A,5,16,1,8
+60,E0,31/10/2020,15:00,Burnley,Chelsea,0,3,A,5,14,0,9
+61,E0,31/10/2020,17:30,Liverpool,West Ham,2,1,H,9,4,5,3
+62,E0,01/11/2020,12:00,Aston Villa,Southampton,3,4,A,19,9,10,4
+63,E0,01/11/2020,14:00,Newcastle,Everton,2,1,H,11,15,4,4
+64,E0,01/11/2020,16:30,Man United,Arsenal,0,1,A,8,7,2,2
+65,E0,01/11/2020,19:15,Tottenham,Brighton,2,1,H,9,6,3,2
+66,E0,02/11/2020,17:30,Fulham,West Brom,2,0,H,13,10,6,1
+67,E0,02/11/2020,20:00,Leeds,Leicester,1,4,A,11,10,4,8
+68,E0,06/11/2020,17:30,Brighton,Burnley,0,0,D,19,4,3,1
+69,E0,06/11/2020,20:00,Southampton,Newcastle,2,0,H,15,4,8,2
+70,E0,07/11/2020,12:30,Everton,Man United,1,3,A,7,13,1,5
+71,E0,07/11/2020,15:00,Crystal Palace,Leeds,4,1,H,10,9,6,3
+72,E0,07/11/2020,17:30,Chelsea,Sheffield United,4,1,H,20,6,9,3
+73,E0,07/11/2020,20:00,West Ham,Fulham,1,0,H,16,13,7,3
+74,E0,08/11/2020,12:00,West Brom,Tottenham,0,1,A,12,19,2,5
+75,E0,08/11/2020,14:00,Leicester,Wolves,1,0,H,10,7,3,2
+76,E0,08/11/2020,16:30,Man City,Liverpool,1,1,D,7,10,2,3
+77,E0,08/11/2020,19:15,Arsenal,Aston Villa,0,3,A,13,15,2,6
+78,E0,21/11/2020,12:30,Newcastle,Chelsea,0,2,A,8,14,1,3
+79,E0,21/11/2020,15:00,Aston Villa,Brighton,1,2,A,15,7,4,3
+80,E0,21/11/2020,17:30,Tottenham,Man City,2,0,H,4,22,2,5
+81,E0,21/11/2020,20:00,Man United,West Brom,1,0,H,17,7,7,2
+82,E0,22/11/2020,12:00,Fulham,Everton,2,3,A,14,9,6,7
+83,E0,22/11/2020,14:00,Sheffield United,West Ham,0,1,A,9,15,5,3
+84,E0,22/11/2020,16:30,Leeds,Arsenal,0,0,D,25,9,4,2
+85,E0,22/11/2020,19:15,Liverpool,Leicester,3,0,H,24,11,13,4
+86,E0,23/11/2020,17:30,Burnley,Crystal Palace,1,0,H,10,15,4,5
+87,E0,23/11/2020,20:00,Wolves,Southampton,1,1,D,20,7,9,2
+88,E0,27/11/2020,20:00,Crystal Palace,Newcastle,0,2,A,12,14,3,7
+89,E0,28/11/2020,12:30,Brighton,Liverpool,1,1,D,11,6,3,2
+90,E0,28/11/2020,15:00,Man City,Burnley,5,0,H,19,9,6,1
+91,E0,28/11/2020,17:30,Everton,Leeds,0,1,A,15,23,8,7
+92,E0,28/11/2020,20:00,West Brom,Sheffield United,1,0,H,17,21,6,5
+93,E0,29/11/2020,14:00,Southampton,Man United,2,3,A,10,15,5,6
+94,E0,29/11/2020,16:30,Chelsea,Tottenham,0,0,D,13,5,3,1
+95,E0,29/11/2020,19:15,Arsenal,Wolves,1,2,A,13,11,2,5
+96,E0,30/11/2020,17:30,Leicester,Fulham,1,2,A,16,10,3,5
+97,E0,30/11/2020,20:00,West Ham,Aston Villa,2,1,H,6,16,2,6
+98,E0,05/12/2020,12:30,Burnley,Everton,1,1,D,8,13,3,6
+99,E0,05/12/2020,15:00,Man City,Fulham,2,0,H,16,6,6,1
+100,E0,05/12/2020,17:30,West Ham,Man United,1,3,A,19,15,6,6
+101,E0,05/12/2020,20:00,Chelsea,Leeds,3,1,H,23,8,11,3
+102,E0,06/12/2020,12:00,West Brom,Crystal Palace,1,5,A,9,18,4,6
+103,E0,06/12/2020,14:15,Sheffield United,Leicester,1,2,A,4,13,1,4
+104,E0,06/12/2020,16:30,Tottenham,Arsenal,2,0,H,6,11,3,2
+105,E0,06/12/2020,19:15,Liverpool,Wolves,4,0,H,11,9,6,3
+106,E0,07/12/2020,20:00,Brighton,Southampton,1,2,A,12,10,4,3
+107,E0,11/12/2020,20:00,Leeds,West Ham,1,2,A,13,19,7,8
+108,E0,12/12/2020,12:30,Wolves,Aston Villa,0,1,A,16,13,7,2
+109,E0,12/12/2020,15:00,Newcastle,West Brom,2,1,H,12,13,7,3
+110,E0,12/12/2020,17:30,Man United,Man City,0,0,D,11,9,2,2
+111,E0,12/12/2020,20:00,Everton,Chelsea,1,0,H,9,10,4,3
+112,E0,13/12/2020,12:00,Southampton,Sheffield United,3,0,H,16,3,6,0
+113,E0,13/12/2020,14:15,Crystal Palace,Tottenham,1,1,D,16,14,5,6
+114,E0,13/12/2020,16:30,Fulham,Liverpool,1,1,D,10,12,5,6
+115,E0,13/12/2020,19:15,Arsenal,Burnley,0,1,A,18,10,6,2
+116,E0,13/12/2020,19:15,Leicester,Brighton,3,0,H,15,12,6,4
+117,E0,15/12/2020,18:00,Wolves,Chelsea,2,1,H,12,13,4,3
+118,E0,15/12/2020,20:00,Man City,West Brom,1,1,D,26,5,7,1
+119,E0,16/12/2020,18:00,Arsenal,Southampton,1,1,D,9,13,4,3
+120,E0,16/12/2020,18:00,Leeds,Newcastle,5,2,H,25,10,10,4
+121,E0,16/12/2020,18:00,Leicester,Everton,0,2,A,14,11,2,6
+122,E0,16/12/2020,20:00,Fulham,Brighton,0,0,D,9,9,4,4
+123,E0,16/12/2020,20:00,Liverpool,Tottenham,2,1,H,17,8,11,2
+124,E0,16/12/2020,20:00,West Ham,Crystal Palace,1,1,D,9,8,2,2
+125,E0,17/12/2020,18:00,Aston Villa,Burnley,0,0,D,27,6,7,4
+126,E0,17/12/2020,20:00,Sheffield United,Man United,2,3,A,12,14,6,8
+127,E0,19/12/2020,12:30,Crystal Palace,Liverpool,0,7,A,5,14,3,8
+128,E0,19/12/2020,15:00,Southampton,Man City,0,1,A,9,11,3,5
+129,E0,19/12/2020,17:30,Everton,Arsenal,2,1,H,9,13,2,2
+130,E0,19/12/2020,20:00,Newcastle,Fulham,1,1,D,12,11,5,4
+131,E0,20/12/2020,12:00,Brighton,Sheffield United,1,1,D,21,5,5,3
+132,E0,20/12/2020,14:15,Tottenham,Leicester,0,2,A,8,17,3,4
+133,E0,20/12/2020,16:30,Man United,Leeds,6,2,H,26,17,14,3
+134,E0,20/12/2020,19:15,West Brom,Aston Villa,0,3,A,1,19,1,10
+135,E0,21/12/2020,17:30,Burnley,Wolves,2,1,H,10,15,4,3
+136,E0,21/12/2020,20:00,Chelsea,West Ham,3,0,H,11,6,7,0
+137,E0,26/12/2020,12:30,Leicester,Man United,2,2,D,10,9,2,4
+138,E0,26/12/2020,15:00,Aston Villa,Crystal Palace,3,0,H,21,13,10,6
+139,E0,26/12/2020,15:00,Fulham,Southampton,0,0,D,10,3,1,2
+140,E0,26/12/2020,17:30,Arsenal,Chelsea,3,1,H,15,19,7,3
+141,E0,26/12/2020,20:00,Man City,Newcastle,2,0,H,11,7,6,2
+142,E0,26/12/2020,20:00,Sheffield United,Everton,0,1,A,10,7,2,3
+143,E0,27/12/2020,12:00,Leeds,Burnley,1,0,H,11,14,4,6
+144,E0,27/12/2020,14:15,West Ham,Brighton,2,2,D,11,13,4,4
+145,E0,27/12/2020,16:30,Liverpool,West Brom,1,1,D,17,5,2,3
+146,E0,27/12/2020,19:15,Wolves,Tottenham,1,1,D,11,6,6,3
